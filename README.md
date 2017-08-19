@@ -1,26 +1,24 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+## This is a simple Ionic3 app demo which sends http get requests to swapi api
 
-## How to use this template
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+## what it does
+<p>It simply sends a get request to swapi api and loads the first page. Then, when users 
+press the next button it loads the next page and shows a loading spinner.That's it.</p>
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+![screenshot](src/assets/star1.png)
 
-### With the Ionic CLI:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+![screen2](src/assets/stars2.png)
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
-```
+![screen3](src/assets/stars3.png)
 
-Then, to run it, cd into `myBlank` and run:
 
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
 
-Substitute ios for android if not on a Mac.
+
+## How to use
+
+<p>clone the repo</p>
+<p>npm install </p>
+<p>ionic serve</p>
+
 
