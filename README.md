@@ -9,6 +9,7 @@
 
 ![screen2](src/assets/stars2.png)
 
+![screen3](src/assets/stars3.png)
 
 
 
