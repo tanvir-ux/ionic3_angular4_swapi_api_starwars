@@ -1,3 +1,19 @@
-## This is simple Ionic3 app which get posts from swapi api
+## This is a simple Ionic3 app demo which sends http get requests to swapi api
 
-![Alt text](src/assets/star1.png)
+<p>Here is the first page of people</p>
+![screenshot](src/assets/star1.png)
+
+<br>
+
+
+<p>Now coming the next page</p>
+![screen2](src/assets/star2.png)
+
+
+
+
+## How to use
+
+<p>clone the repo</p>
+<p>npm install </p>
+<p>ionic serve</p>
