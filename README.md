@@ -7,7 +7,7 @@
 
 
 
-![screen2](src/assets/star2.png)
+![screen2](src/assets/stars2.png)
 
 
 
